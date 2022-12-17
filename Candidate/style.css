@@ -1,0 +1,19 @@
+.form-signup {
+    margin: 0 auto;
+    max-width: 400px;
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+ 
+
+}
+body {
+    padding-top: 300px;
+    background: rgb(95, 145, 151);
+}
+.form-signup h2,p{
+    text-align: center;
+}
+.form-signup .jobHead{
+    text-align: center;
+    
+}
