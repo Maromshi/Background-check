@@ -18,8 +18,8 @@ In addition, the system will show the employer other felonies that might be rele
 * The Server-Side is built using NodeJS, and it is responsible for sending the queries to the DB and based on the results, computing the final score that will be sent back to the Client-Side.
 * The Database we are using is a NoSQL DB using MongoDB like we practiced in the course. The structure of the JSON object is shown in the following picture:
 <br/>
-![JS](https://github.com/Maromshi/Background-check/blob/main/ReadMe/JSON%20structure.PNG)
-<br/>
+  ![JS](https://github.com/Maromshi/Background-check/blob/main/ReadMe/JSON%20structure.PNG)
+
 In order to populate the DB we are using the technique learnt in this course, using Python language and the library 'pymongo'.
 
 <br/>
