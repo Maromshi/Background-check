@@ -1,3 +1,4 @@
+![bg](https://github.com/Maromshi/Background-check/blob/main/ReadMe/BG.png)
 # Background Check system
 ### This system`s purpose is to check the background of a person based on the job type is being considered for
 The employer will fill the WEB form and will send a query to the server-side that will return all the past felonies the person had **in that specific area**.
