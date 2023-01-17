@@ -61,6 +61,7 @@ Below are some screenshots of the Sharding and Replication Sets:
   
 <br/>
 <br/>
+
 * The Shards along with its Replication Set:
 
   ![SR](https://github.com/Maromshi/Background-check/blob/main/ReadMe/ReplicasOfShards.png)
