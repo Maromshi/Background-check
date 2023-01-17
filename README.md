@@ -45,7 +45,7 @@ Below are some screenshots of the Sharding and Replication Sets:
 <br/>
 <br/>
 * Sharding of the data, based on the 'Felony Type' field. As you can see the data entered both of the Shards based on MongoDB hashing function:
-<br/>
+
 ![SD](https://github.com/Maromshi/Background-check/blob/main/ReadMe/shardingFelonies.png)
 <br/>
 <br/>
@@ -55,10 +55,10 @@ Below are some screenshots of the Sharding and Replication Sets:
 <br/>
 <br/>
 * Replication Set of the second Shard:
-<br/>
+
   ![SR](https://github.com/Maromshi/Background-check/blob/main/ReadMe/Shard2Replicas.png)
 <br/>
 <br/>
 * The Shards along with its Replication Set:
-<br/>
+
   ![SR](https://github.com/Maromshi/Background-check/blob/main/ReadMe/ReplicasOfShards.png)
