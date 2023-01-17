@@ -20,7 +20,7 @@ In addition, the system will show the employer other felonies that might be rele
 
   ![JS](https://github.com/Maromshi/Background-check/blob/main/ReadMe/JSON%20structure.PNG)
 
-In order to populate the DB we are using the technique learnt in this course, using Python language and the library 'pymongo'.
+* In order to populate the DB we are using the technique learnt in this course, using Python language and the library 'pymongo'.
 
 <br/>
 
